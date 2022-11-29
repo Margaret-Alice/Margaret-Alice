@@ -1,5 +1,5 @@
-👋 Hey! I'm Margaret 
-👀 I’m interested in Frontend Development and want to get started in the tech industry!
+👋 Hey! I'm Margaret <br>
+👀 I’m interested in Frontend Development and want to get started in the tech industry! <br>
 🌱 I’m currently learning HTML, CSS, Bootsratp, Javascript and React & UX/UI Design.
 <!--
 **Margaret-Alice/Margaret-Alice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
