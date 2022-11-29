@@ -1,5 +1,6 @@
-### Hi there 👋
-
+👋 Hey! I'm Margaret 
+👀 I’m interested in Frontend Development and want to get started in the tech industry!
+🌱 I’m currently learning HTML, CSS, Bootsratp, Javascript and React & UX/UI Design.
 <!--
 **Margaret-Alice/Margaret-Alice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Here is the link to my portfolio where all my recent projects can be found Portfolio
+Here is the link to my first interactive weather app
+📫 Here is how to reach me on Linkedin
+### Hi there 👋
 -->
